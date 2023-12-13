@@ -12,8 +12,8 @@
                     <p><i class="fa fa-user mr-2"></i>Bayu Sebastian</p>
                     <p><i class="fa fa-tag mr-2"></i>Mahasiswa</p>
                     <p><i class="fa fa-envelope mr-2"></i><a href="mailto:sebastianbayu01@gmail.com">sebastianbayu01@gmail.com</a></p>
-                    <p><i class="fa fa-phone mr-2"></i><a href="https://wa.me/+6285219533800">+62-852-1953-3800</a></p>
-                    <p><i class="fa fa-map-marker mr-2"></i><a href="https://maps.app.goo.gl/ay9EJEMDvC3erNGt7">Pesona Saga Residance - Tangerang - Banten</a></p>
+                    <p><i class="fa fa-link mr-2"></i><a href="https://bayu.kelaspagi.my.id">bayu.kelaspagi.my.id</a></p>
+                    <p><i class="fa fa-map-marker mr-2"></i><a href="https://maps.app.goo.gl/JwWEXYhFD2fiiNs27">Kab. Tangerang, Banten</a></p>
                     <!-- <div class="social">
                         <a class="btn" href="Friska Sasti (@SastiFriska4): https://x.com/SastiFriska4?t=BIbzJHfera7e6rwhu53QAw&s=08"><i class="fab fa-twitter"></i></a>
                         <a class="btn" href="https://web.whatsapp.com/089673755759"><i class="fab fa-whatsapp"></i></a>

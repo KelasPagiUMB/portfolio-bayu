@@ -68,10 +68,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/php1.png" alt="">
+                        <img class="img-fluid rounded w-100" src="img/php2.png" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/php1.png" data-lightbox="portfolio">
-                                <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Membuat Login <br> PHP</p>
+                            <a href="img/php2.png" data-lightbox="portfolio">
+                                <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Keuangan <br> PHP</p>
                             </a>
                         </div>
                     </div>
