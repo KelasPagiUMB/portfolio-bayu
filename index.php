@@ -14,13 +14,15 @@ if (isset($_GET['page'])) {
         include "komponen/pages/portfolio.php";
     } else if ($_GET['page'] == 'contact') {
         include "komponen/pages/contact.php";
+    } else if ($_GET['page'] == 'timeline') {
+        include "komponen/pages/timeline.php";
     }
 } else {
     include "komponen/pages/home.php";
 }
 
 include "komponen/footer.php";
-
+?>
 
 
 

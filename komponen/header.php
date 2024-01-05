@@ -43,6 +43,7 @@
                 <a href="?page=skill" class="nav-item nav-link">Skill</a>
                 <a href="?page=portfolio" class="nav-item nav-link">Portfolio</a>
                 <a href="?page=contact" class="nav-item nav-link">Contact</a>
+                <a href="?page=timeline" class="nav-item nav-link">Timeline</a>
             </div>
             <a href="https://instagram.com/baybas18?igshid=YzAwZjE1ZTI0Zg==" class="btn btn-outline-primary d-none d-lg-block">DM Me</a>
         </div>
