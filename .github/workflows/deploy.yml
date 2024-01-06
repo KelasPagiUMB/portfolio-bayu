@@ -1,0 +1,22 @@
+name: Deployment
+
+on:
+  push:
+    branches: ['main']
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Deploy to vps
+      uses: appleboy/ssh-action@v1.0.2
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        password: ${{ secrets.PASSWORD }}
+        port: ${{ secrets.PORT }}
+        script: |
+          cd ./httpdocs/subdomain/bayu
+          git pull
