@@ -9,7 +9,7 @@
     <meta content="Free HTML Templates" name="description">
 
     <!-- Favicon -->
-    <link href="img/b.ico" rel="icon">
+    <link href="https://storage.googleapis.com/profil-dicoding/img/b.ico" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -19,11 +19,11 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="https://latihan-441604.et.r.appspot.com/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://latihan-441604.et.r.appspot.com/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="https://latihan-441604.et.r.appspot.com/css/style.css" rel="stylesheet">
 </head>
 
 <body>

@@ -7,7 +7,7 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
-                    <img class="img-fluid rounded w-100" src="img/my_photo.png" alt="">
+                    <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/my_photo.png" alt="">
                 </div>
                 <div class="col-lg-7">
                     <h3 class="mb-4">Mahasiswa</h3>

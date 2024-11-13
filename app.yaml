@@ -1,0 +1,14 @@
+runtime: php83
+
+handlers:
+  # Menyajikan file statis CSS
+  - url: /css
+    static_dir: css
+
+  # Menyajikan file statis JS
+  - url: /js
+    static_dir: js
+
+  # Menyajikan file PHP dan halaman lainnya
+  - url: /.*  # Semua permintaan akan diproses oleh PHP
+    script: auto

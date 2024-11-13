@@ -18,9 +18,9 @@
             <div class="row portfolio-container">
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/pt1.png" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/pt1.png" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/pt1.png" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/pt1.png" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Membuat Aritmatika Sederhana <br> DELPHI</p>
                             </a>
                         </div>
@@ -28,9 +28,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/pt2.png" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/pt2.png" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/pt2.png" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/pt2.png" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Membuat Aplikasi Kalkulator Bangun Ruang & Datar <br> DELPHI</p>
                             </a>
                         </div>
@@ -38,9 +38,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/pt3.png" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/pt3.png" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/pt3.png" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/pt3.png" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Membuat Aplikasi Prototipe E-Commerce <br> DELPHI</p>
                             </a>
                         </div>
@@ -48,9 +48,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/grup1.jpeg" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/grup1.jpeg" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/grup1.jpeg" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/grup1.jpeg" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Foto Bersama Grup Kelas Pagi <br> Darul Arqam Dasar <br> 2023</p>
                             </a>
                         </div>
@@ -58,9 +58,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/grup2.jpeg" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/grup2.jpeg" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/grup2.jpeg" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/grup2.jpeg" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Foto Bersama Grup Kelas Pagi <br> Darul Arqam Dasar <br> 2023</p>
                             </a>
                         </div>
@@ -68,9 +68,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="img/php2.png" alt="">
+                        <img class="img-fluid rounded w-100" src="https://storage.googleapis.com/profil-dicoding/img/php2.png" alt="">
                         <div class="portfolio-btn bg-backdrop d-flex align-items-center justify-content-center">
-                            <a href="img/php2.png" data-lightbox="portfolio">
+                            <a href="https://storage.googleapis.com/profil-dicoding/img/php2.png" data-lightbox="portfolio">
                                 <p class="text-white" style="font-size: 15px; font-weight:bold; text-align:center;">Tugas Keuangan <br> PHP</p>
                             </a>
                         </div>

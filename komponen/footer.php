@@ -33,19 +33,19 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/typed/typed.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/https://latihan-441604.et.r.appspot.com/lib/typed/typed.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/lib/easing/easing.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/lib/waypoints/waypoints.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Contact Javascript File -->
-    <script src="mail/jqBootstrapValidation.min.js"></script>
-    <script src="mail/contact.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/mail/jqBootstrapValidation.min.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/mail/contact.js"></script>
 
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="https://latihan-441604.et.r.appspot.com/js/main.js"></script>
     </body>
 
     </html>
